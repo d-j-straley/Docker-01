@@ -1,10 +1,3 @@
-## Initial Users
-The database creation logic above will create the following users:
-* rr@acme.com / `l00neyTunes!`
-* wile@acme.com / `l00neyTunes!`
-* kim@mars.com / `to1nfinity!`
-* stanley@mars.com / `to1nfinity!`
-
 ## Setup Notes (Old Way)
 * [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 * [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP) -- This is Windows-only and is replaced in our Docker setup
